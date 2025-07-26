@@ -1,0 +1,38 @@
+* {
+    font-family: "Playfair Display", sans-serif;
+}
+body {
+    background-color: #3A5A77; /* Denim blue */
+}
+h1 {
+    margin-left: 330px;
+    color: #F5F7FA; /* Light text for contrast */
+}
+div {
+    width: 50%;
+    background-color: #6A8BAA; /* Lighter denim shade */
+    border: solid 2px #22334A; /* Darker denim border */
+    text-align: center;
+    margin-left: 250px;
+    padding: 10px;
+    color: #F5F7FA;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    overflow-wrap: break-word;
+}
+.img-LesPaul,
+.img-SG,
+.img-Explorer {
+    border: solid 2px #22334A; /* Dark denim border */
+    height: 200px; 
+    width: 200px;
+    background-color: #F5F7FA; /* White background for images */
+}
+.info {
+    margin-left: 250px;
+    color: #F5F7FA;
+}
+a {
+    color: #FFD700; /* Gold for links */
+    text-decoration: none;
+}
